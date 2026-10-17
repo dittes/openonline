@@ -1,2 +1,0 @@
-# openonline
-open-online.com
