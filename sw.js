@@ -1,11 +1,33 @@
 /* global [
   "/",
+  "/en/",
+  "/de/",
+  "/cs/",
+  "/pl/",
   "/manifest.webmanifest",
   "/favicon.svg",
   "/icons/icon-192.png",
-  "/assets/index-PFYhQ9jF.js",
-  "/assets/ui-C6Xj7BpG.js",
-  "/assets/index-ucMbKoAF.css",
+  "/assets/index-C4_6lhoM.js",
+  "/assets/i18n-DLlDAbJ0.js",
+  "/assets/ui-tlWuJIrf.js",
+  "/assets/Brand-BxGkyQF7.js",
+  "/assets/registry-BLgfibvj.js",
+  "/assets/router-kgFc1S-f.js",
+  "/assets/zip-B8G3Mx3S.js",
+  "/assets/text-j3tuA5X2.js",
+  "/assets/tar-cQAsr550.js",
+  "/assets/content-CoB6ykkg.js",
+  "/assets/preload-helper-BLdHbfdN.js",
+  "/assets/session-DaX02iEa.js",
+  "/assets/chevron-down-eYcA7Xtw.js",
+  "/assets/x-2sw2BLlq.js",
+  "/assets/eighth-notes-lhNtj6_B.js",
+  "/assets/image-qjB89R08.js",
+  "/assets/lock-keyhole-BLgX3tkO.js",
+  "/assets/search-kt1MBCfi.js",
+  "/assets/download-BdQD0xvr.js",
+  "/assets/types-BJgKZ8aa.js",
+  "/assets/index-DM_hFjcn.css",
   "/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
   "/assets/inter-latin-wght-normal-Dx4kXJAl.woff2"
 ] */
@@ -15,7 +37,7 @@
  * It never sees or stores the files users open: those are read directly by
  * the page and are never requested over the network.
  */
-const VERSION = '837fde62188d';
+const VERSION = '456031d7c5fe';
 const CACHE = `open-online-${VERSION}`;
 const PRECACHE = __PRECACHE__;
 
