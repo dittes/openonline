@@ -7,24 +7,24 @@
   "/manifest.webmanifest",
   "/favicon.svg",
   "/icons/icon-192.png",
-  "/assets/index-CYs4C9y8.js",
-  "/assets/i18n-CrbNJ_is.js",
-  "/assets/ui-sVZT-9HZ.js",
-  "/assets/Brand-CUFwjEUR.js",
-  "/assets/registry-DUTKct5Q.js",
-  "/assets/router-G2WiWCiX.js",
-  "/assets/zip-BupNl4DY.js",
+  "/assets/index-C2VWF50f.js",
+  "/assets/i18n-DNvCkWfv.js",
+  "/assets/ui-BGP9eG_H.js",
+  "/assets/Brand-D8r2tEbA.js",
+  "/assets/registry-BP1lj77l.js",
+  "/assets/router-OUUlhuR2.js",
+  "/assets/zip-CB_uc3D1.js",
   "/assets/text-j3tuA5X2.js",
-  "/assets/tar-BVhxHTuQ.js",
-  "/assets/content-CXV5ed_3.js",
+  "/assets/tar-DnlssHTB.js",
+  "/assets/content-DctvpJb8.js",
   "/assets/preload-helper-BLdHbfdN.js",
-  "/assets/session-De_zYxvA.js",
-  "/assets/chevron-down-BUG62fV4.js",
-  "/assets/x-CkhnRGwA.js",
-  "/assets/eighth-notes-BYmQzhTe.js",
-  "/assets/type-CUAjaetn.js",
-  "/assets/lock-keyhole-Dt3dS3NB.js",
-  "/assets/search-CrKaU0m4.js",
+  "/assets/session-CIs4JFdO.js",
+  "/assets/chevron-down-C81sFyeg.js",
+  "/assets/x-DzXfFdzF.js",
+  "/assets/eighth-notes-AbWkPYUj.js",
+  "/assets/type-DPTw1kNT.js",
+  "/assets/lock-keyhole-DC__MA9V.js",
+  "/assets/search-ybKuNYkU.js",
   "/assets/download-BdQD0xvr.js",
   "/assets/types-BJgKZ8aa.js",
   "/assets/index-MmEknGeG.css",
@@ -37,7 +37,7 @@
  * It never sees or stores the files users open: those are read directly by
  * the page and are never requested over the network.
  */
-const VERSION = '2170ebd9153d';
+const VERSION = '1a025f6b5010';
 const CACHE = `open-online-${VERSION}`;
 const PRECACHE = __PRECACHE__;
 

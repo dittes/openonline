@@ -136,6 +136,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fonts"/>
   </url>
   <url>
+    <loc>https://open-online.com/en/models</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/models"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/models"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/models"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/models"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/models"/>
+  </url>
+  <url>
     <loc>https://open-online.com/en/pdf</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pdf"/>
@@ -170,6 +179,42 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/rtf"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/rtf"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/rtf"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/ipynb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/ipynb"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/eml</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/eml"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/eml"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/eml"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/eml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/eml"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/npy</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/npy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/npy"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/npy"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/npy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/npy"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/crt</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/crt"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/crt"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/crt"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/crt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/crt"/>
   </url>
   <url>
     <loc>https://open-online.com/en/txt</loc>
@@ -352,6 +397,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/bmp"/>
   </url>
   <url>
+    <loc>https://open-online.com/en/pnm</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pnm"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/pnm"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/pnm"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/pnm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/pnm"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/tga</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/tga"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/tga"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/tga"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/tga"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/tga"/>
+  </url>
+  <url>
     <loc>https://open-online.com/en/ico</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ico"/>
@@ -388,6 +451,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/gz"/>
   </url>
   <url>
+    <loc>https://open-online.com/en/7z</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/7z"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/7z"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/7z"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/7z"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/7z"/>
+  </url>
+  <url>
     <loc>https://open-online.com/en/epub</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/epub"/>
@@ -395,6 +467,24 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/epub"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/epub"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/epub"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/cbz</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/cbz"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/cbz"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/cbz"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/cbz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/cbz"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/fb2</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/fb2"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/fb2"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/fb2"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/fb2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fb2"/>
   </url>
   <url>
     <loc>https://open-online.com/en/json</loc>
@@ -730,6 +820,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/woff"/>
   </url>
   <url>
+    <loc>https://open-online.com/en/stl</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/stl"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/stl"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/stl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/stl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/stl"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/en/glb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/glb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/glb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/glb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/glb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/glb"/>
+  </url>
+  <url>
     <loc>https://open-online.com/de/</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/"/>
@@ -856,6 +964,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fonts"/>
   </url>
   <url>
+    <loc>https://open-online.com/de/models</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/models"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/models"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/models"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/models"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/models"/>
+  </url>
+  <url>
     <loc>https://open-online.com/de/pdf</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pdf"/>
@@ -890,6 +1007,42 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/rtf"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/rtf"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/rtf"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/ipynb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/ipynb"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/eml</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/eml"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/eml"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/eml"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/eml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/eml"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/npy</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/npy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/npy"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/npy"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/npy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/npy"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/crt</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/crt"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/crt"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/crt"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/crt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/crt"/>
   </url>
   <url>
     <loc>https://open-online.com/de/txt</loc>
@@ -1072,6 +1225,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/bmp"/>
   </url>
   <url>
+    <loc>https://open-online.com/de/pnm</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pnm"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/pnm"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/pnm"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/pnm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/pnm"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/tga</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/tga"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/tga"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/tga"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/tga"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/tga"/>
+  </url>
+  <url>
     <loc>https://open-online.com/de/ico</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ico"/>
@@ -1108,6 +1279,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/gz"/>
   </url>
   <url>
+    <loc>https://open-online.com/de/7z</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/7z"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/7z"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/7z"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/7z"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/7z"/>
+  </url>
+  <url>
     <loc>https://open-online.com/de/epub</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/epub"/>
@@ -1115,6 +1295,24 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/epub"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/epub"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/epub"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/cbz</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/cbz"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/cbz"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/cbz"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/cbz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/cbz"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/fb2</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/fb2"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/fb2"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/fb2"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/fb2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fb2"/>
   </url>
   <url>
     <loc>https://open-online.com/de/json</loc>
@@ -1450,6 +1648,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/woff"/>
   </url>
   <url>
+    <loc>https://open-online.com/de/stl</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/stl"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/stl"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/stl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/stl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/stl"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/de/glb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/glb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/glb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/glb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/glb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/glb"/>
+  </url>
+  <url>
     <loc>https://open-online.com/cs/</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/"/>
@@ -1576,6 +1792,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fonts"/>
   </url>
   <url>
+    <loc>https://open-online.com/cs/models</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/models"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/models"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/models"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/models"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/models"/>
+  </url>
+  <url>
     <loc>https://open-online.com/cs/pdf</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pdf"/>
@@ -1610,6 +1835,42 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/rtf"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/rtf"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/rtf"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/ipynb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/ipynb"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/eml</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/eml"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/eml"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/eml"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/eml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/eml"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/npy</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/npy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/npy"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/npy"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/npy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/npy"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/crt</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/crt"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/crt"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/crt"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/crt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/crt"/>
   </url>
   <url>
     <loc>https://open-online.com/cs/txt</loc>
@@ -1792,6 +2053,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/bmp"/>
   </url>
   <url>
+    <loc>https://open-online.com/cs/pnm</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pnm"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/pnm"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/pnm"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/pnm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/pnm"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/tga</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/tga"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/tga"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/tga"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/tga"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/tga"/>
+  </url>
+  <url>
     <loc>https://open-online.com/cs/ico</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ico"/>
@@ -1828,6 +2107,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/gz"/>
   </url>
   <url>
+    <loc>https://open-online.com/cs/7z</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/7z"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/7z"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/7z"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/7z"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/7z"/>
+  </url>
+  <url>
     <loc>https://open-online.com/cs/epub</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/epub"/>
@@ -1835,6 +2123,24 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/epub"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/epub"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/epub"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/cbz</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/cbz"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/cbz"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/cbz"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/cbz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/cbz"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/fb2</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/fb2"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/fb2"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/fb2"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/fb2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fb2"/>
   </url>
   <url>
     <loc>https://open-online.com/cs/json</loc>
@@ -2170,6 +2476,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/woff"/>
   </url>
   <url>
+    <loc>https://open-online.com/cs/stl</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/stl"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/stl"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/stl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/stl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/stl"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/cs/glb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/glb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/glb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/glb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/glb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/glb"/>
+  </url>
+  <url>
     <loc>https://open-online.com/pl/</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/"/>
@@ -2296,6 +2620,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fonts"/>
   </url>
   <url>
+    <loc>https://open-online.com/pl/models</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/models"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/models"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/models"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/models"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/models"/>
+  </url>
+  <url>
     <loc>https://open-online.com/pl/pdf</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pdf"/>
@@ -2330,6 +2663,42 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/rtf"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/rtf"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/rtf"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/ipynb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/ipynb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/ipynb"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/eml</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/eml"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/eml"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/eml"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/eml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/eml"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/npy</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/npy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/npy"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/npy"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/npy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/npy"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/crt</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/crt"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/crt"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/crt"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/crt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/crt"/>
   </url>
   <url>
     <loc>https://open-online.com/pl/txt</loc>
@@ -2512,6 +2881,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/bmp"/>
   </url>
   <url>
+    <loc>https://open-online.com/pl/pnm</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/pnm"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/pnm"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/pnm"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/pnm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/pnm"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/tga</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/tga"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/tga"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/tga"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/tga"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/tga"/>
+  </url>
+  <url>
     <loc>https://open-online.com/pl/ico</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/ico"/>
@@ -2548,6 +2935,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/gz"/>
   </url>
   <url>
+    <loc>https://open-online.com/pl/7z</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/7z"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/7z"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/7z"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/7z"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/7z"/>
+  </url>
+  <url>
     <loc>https://open-online.com/pl/epub</loc>
     <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/epub"/>
@@ -2555,6 +2951,24 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/epub"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/epub"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/epub"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/cbz</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/cbz"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/cbz"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/cbz"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/cbz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/cbz"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/fb2</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/fb2"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/fb2"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/fb2"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/fb2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/fb2"/>
   </url>
   <url>
     <loc>https://open-online.com/pl/json</loc>
@@ -2888,5 +3302,23 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/woff"/>
     <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/woff"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/woff"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/stl</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/stl"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/stl"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/stl"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/stl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/stl"/>
+  </url>
+  <url>
+    <loc>https://open-online.com/pl/glb</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://open-online.com/en/glb"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://open-online.com/de/glb"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://open-online.com/cs/glb"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://open-online.com/pl/glb"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://open-online.com/en/glb"/>
   </url>
 </urlset>
