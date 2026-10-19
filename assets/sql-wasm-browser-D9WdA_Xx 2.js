@@ -1,1 +1,0 @@
-var e=`/assets/sql-wasm-browser-C1D_RJuy.wasm`;export{e as default};

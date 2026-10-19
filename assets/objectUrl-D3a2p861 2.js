@@ -1,1 +1,0 @@
-import{_ as e,m as t}from"./i18n-DLlDAbJ0.js";function n(n){let[r,i]=e(null);return t(()=>{if(!n){i(null);return}let e=URL.createObjectURL(n);return i(e),()=>URL.revokeObjectURL(e)},[n]),r}export{n as t};
