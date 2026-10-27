@@ -7,7 +7,7 @@
   "/manifest.webmanifest",
   "/favicon.svg",
   "/icons/icon-192.png",
-  "/assets/index-jgHmAmdd.js",
+  "/assets/index-DwpWNsV9.js",
   "/assets/i18n-DNvCkWfv.js",
   "/assets/ui-BGP9eG_H.js",
   "/assets/Brand-D8r2tEbA.js",
@@ -16,9 +16,9 @@
   "/assets/zip-CB_uc3D1.js",
   "/assets/text-j3tuA5X2.js",
   "/assets/tar-DnlssHTB.js",
-  "/assets/content-y-PF8KoS.js",
+  "/assets/content-CMwgtPCn.js",
   "/assets/preload-helper-BLdHbfdN.js",
-  "/assets/session-D5h7oP5H.js",
+  "/assets/session-zP1PXNIG.js",
   "/assets/chevron-down-C81sFyeg.js",
   "/assets/x-DzXfFdzF.js",
   "/assets/eighth-notes-AbWkPYUj.js",
@@ -37,7 +37,7 @@
  * It never sees or stores the files users open: those are read directly by
  * the page and are never requested over the network.
  */
-const VERSION = 'e5e77812a1fc';
+const VERSION = 'ad72bc22dd4f';
 const CACHE = `open-online-${VERSION}`;
 const PRECACHE = __PRECACHE__;
 

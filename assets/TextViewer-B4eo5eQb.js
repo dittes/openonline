@@ -1,1 +1,0 @@
-export{t as READ_ONLY_ABOVE,n as TextTools,r as default,i as textDetails}from"./TextViewer-mP-FVyFy.js";
